@@ -1,1 +1,1 @@
-[{"outputType":{"type":"APK"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"app-debug.apk","properties":{}}]
+{"AppName":"木有猫", "VersionCode":1, "VersionName":"0.1.7", "UpdateInfo":["增加了精选好货功能", "优化了用户中心相关设置", "新增了App更新升级功能"], "NeedBackup":false}
