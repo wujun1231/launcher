@@ -1,1 +1,1 @@
-{"AppName":"木有猫", "VersionCode":1, "VersionName":"0.1.9", "UpdateInfo":["增加了精选好货预期效果图", "增加了萌宠社区预期效果图", "优化了用户中心相关设置", "修复了一些Bug"], "NeedBackup":true}
+{"AppName":"木有猫", "VersionCode":1, "VersionName":"0.2.1", "UpdateInfo":["修复添加设备时设备配网失败问题", "修复设备配网成功后无法加载问题"], "NeedBackup":true}
